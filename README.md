@@ -1,6 +1,8 @@
 ### Hi there! 👋
 
-I'm White. I work as enterprise consultant and fullstack software engineer. I focus on end-to-end product development for startups, turning ideas into tangible products and services. 
+I'm White. I work as enterprise consultant and fullstack software engineer. I focus on end-to-end product development for startups, turning ideas into tangible products and services. In his spare time, he hacking the machine learning stack of things -- mostly algorithmic trading thus applying machine learning principles to trading decisions.
+
+White's work life is based on this mantra - "If it must be done, it must be done well".
 
 ### Get in touch
 
