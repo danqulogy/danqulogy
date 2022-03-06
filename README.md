@@ -11,12 +11,12 @@ I'm Bernard White. I work as enterprise consultant and fullstack software engine
 
  🔭 I’m currently working on [BusPro](https://www.buspro.oleumapp.com): End-to-end fleet management platform(Saas Architecture)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=danqulogy&theme=darcula&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=danqulogy&theme=minimal&hide_border=true)
 
 <p align="center">
 
 [//]: # (<img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs?username=danqulogy&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="danqulogy" /> )
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=danqulogy&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="danqulogy" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=danqulogy&show_icons=true&theme=dracula&title_color=ff8000&text_color=000000&bg_color=ffffff&locale=en&hide_border=true" alt="danqulogy" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=danqulogy&theme=highcontrast&hide_border=true" alt="danqulogy" />
 </p>
 
