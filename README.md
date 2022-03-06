@@ -5,6 +5,7 @@ I'm Bernard White. I work as enterprise consultant and fullstack software engine
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danqulogy&label=Profile%20views&color=green&style=flat" alt="danqulogy" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danqulogy" alt="mszeles" /></a> </p>
 
 
 ### Get in touch
