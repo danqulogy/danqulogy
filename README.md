@@ -9,8 +9,10 @@ I'm Bernard White. I work as enterprise consultant and fullstack software engine
 
 [//]: # (<p align="left"> <a href="https://twitter.com/danqulogy" target="blank"><img src="https://img.shields.io/twitter/follow/danqulogy?logo=twitter&style=for-the-badge" alt="danqulogy" /></a> </p>)
 
-* [x] 🔭 I’m currently working on [BusPro](https://www.buspro.oleumapp.com)
-* [x] ✨ Completed [MetroBillboards](https://www.buspro.oleumapp.com)
+ 🔭 I’m currently working on [BusPro](https://www.buspro.oleumapp.com)
+
+### Completed Projects 2022
+* [x]  [MetroBillboards](https://www.buspro.oleumapp.com): Outdoor advertisement permit monitoring and management solution for Accra Metropolitan Assembly 
 
 ### Get in touch
 
