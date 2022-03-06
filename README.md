@@ -22,6 +22,11 @@ I'm Bernard White. I work as enterprise consultant and fullstack software engine
 </p>
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#11](https://github.com/FullEffect-Studio/festudio-core/issues/11) in [FullEffect-Studio/festudio-core](https://github.com/FullEffect-Studio/festudio-core)
+2. 🎉 Merged PR [#10](https://github.com/FullEffect-Studio/festudio-core/pull/10) in [FullEffect-Studio/festudio-core](https://github.com/FullEffect-Studio/festudio-core)
+3. 💪 Opened PR [#10](https://github.com/FullEffect-Studio/festudio-core/pull/10) in [FullEffect-Studio/festudio-core](https://github.com/FullEffect-Studio/festudio-core)
+4. 🎉 Merged PR [#9](https://github.com/FullEffect-Studio/festudio-core/pull/9) in [FullEffect-Studio/festudio-core](https://github.com/FullEffect-Studio/festudio-core)
+5. 💪 Opened PR [#9](https://github.com/FullEffect-Studio/festudio-core/pull/9) in [FullEffect-Studio/festudio-core](https://github.com/FullEffect-Studio/festudio-core)
 <!--END_SECTION:activity-->
 
 ### Completed Projects 2022 ✨
