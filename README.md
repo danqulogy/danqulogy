@@ -9,6 +9,7 @@ I'm Bernard White. I work as enterprise consultant and fullstack software engine
 
 <p align="left"> <a href="https://twitter.com/mszeles" target="blank"><img src="https://img.shields.io/twitter/follow/danqulogy?logo=twitter&style=for-the-badge" alt="danqulogy" /></a> </p>
 
+- 🔭 I’m currently working on [ADAMOS Marketplace](https://www.adamos.com/en/)
 
 ### Get in touch
 
