@@ -18,7 +18,7 @@ I'm Bernard White. I work as enterprise consultant and fullstack software engine
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=danqulogy&show_icons=true&theme=dracula&title_color=42c465&text_color=000000&bg_color=ffffff&locale=en&hide_border=true" alt="danqulogy" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=danqulogy&theme=default&hide_border=true" alt="danqulogy" />
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=danqulogy&show_icons=true&theme=default&title_color=42c465&text_color=000000&bg_color=ffffff&locale=en&layout=compact&hide_border=true" alt="danqulogy" /> 
+[//]: # (<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=danqulogy&show_icons=true&theme=default&title_color=42c465&text_color=000000&bg_color=ffffff&locale=en&layout=compact&hide_border=true" alt="danqulogy" /> )
 </p>
 
 ### Completed Projects 2022 ✨
