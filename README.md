@@ -20,7 +20,8 @@ I'm Bernard White. I work as enterprise consultant and fullstack software engine
     ✨ I love to create different types of **contents**.
 <td >
 # this is my daily.dev card, you can edit this accordingly
-    <a href="https://app.daily.dev/Astrodevil"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Ånand's Dev Card"/></a>
+    <a href="https://app.daily.dev/danqulogy"><img src="https://api.daily.dev/devcards/4ab7be879d734f3ebd9b7f5b22634c17.png?r=0ru" width="400" alt="Bernard D. White's Dev Card"/></a>
+
   </td>
 
 </tr>
