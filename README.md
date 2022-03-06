@@ -21,6 +21,7 @@ I'm Bernard White. I work as enterprise consultant and fullstack software engine
 [//]: # (<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=danqulogy&show_icons=true&theme=default&title_color=42c465&text_color=000000&bg_color=ffffff&locale=en&layout=compact&hide_border=true" alt="danqulogy" /> )
 </p>
 
+### Recent Activities ⚡
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
