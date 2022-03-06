@@ -9,8 +9,13 @@ I'm Bernard White. I work as enterprise consultant and fullstack software engine
 
 [//]: # (<p align="left"> <a href="https://twitter.com/danqulogy" target="blank"><img src="https://img.shields.io/twitter/follow/danqulogy?logo=twitter&style=for-the-badge" alt="danqulogy" /></a> </p>)
 
- 🔭 I’m currently working on [BusPro](https://www.buspro.oleumapp.com): End-to-end fleet management platform(Saas Architecture)
+### Current Status 🎯
+ * 🔭 I’m currently working on [BusPro](https://www.buspro.oleumapp.com): End-to-end fleet management platform(Saas Architecture)
+ * 🧭 Actively searching for remote work. (Okay with relocation, US Preferred)
+ * 🦾 Gyming my knowledge and experience with on scaling and distributed systems
 
+
+### Analytics 📈
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=danqulogy&theme=github-light&hide_border=true)
 
 <p align="center">
@@ -22,6 +27,7 @@ I'm Bernard White. I work as enterprise consultant and fullstack software engine
 </p>
 
 ### Recent Activities ⚡
+
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#11](https://github.com/FullEffect-Studio/festudio-core/issues/11) in [FullEffect-Studio/festudio-core](https://github.com/FullEffect-Studio/festudio-core)
 2. 🎉 Merged PR [#10](https://github.com/FullEffect-Studio/festudio-core/pull/10) in [FullEffect-Studio/festudio-core](https://github.com/FullEffect-Studio/festudio-core)
