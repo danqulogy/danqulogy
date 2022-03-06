@@ -11,7 +11,7 @@ I'm Bernard White. I work as enterprise consultant and fullstack software engine
 
  🔭 I’m currently working on [BusPro](https://www.buspro.oleumapp.com): End-to-end fleet management platform(Saas Architecture)
 
-### Completed Projects 2022
+### Completed Projects 2022 🎇✨
 * [x]  [MetroBillboards](billboard.oleumapp.com): Outdoor advertisement permit monitoring and management solution for Accra Metropolitan Assembly 
 
 ### Get in touch
