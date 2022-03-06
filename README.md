@@ -11,7 +11,7 @@ I'm Bernard White. I work as enterprise consultant and fullstack software engine
 
  🔭 I’m currently working on [BusPro](https://www.buspro.oleumapp.com): End-to-end fleet management platform(Saas Architecture)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#danqulogy&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=danqulogy&theme=dracula&hide_border=true)
 
 
 ### Completed Projects 2022 🎇✨
