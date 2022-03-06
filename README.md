@@ -1,4 +1,4 @@
-### Hi there! 👋
+## Hi there! 👋
 
 
 I'm Bernard White. I work as enterprise consultant and fullstack software engineer. My interest revolves around tackling complex distributed systems and large scale development. I currently focus on end-to-end product development for startups, turning ideas into tangible products and services. 
@@ -9,7 +9,7 @@ I'm Bernard White. I work as enterprise consultant and fullstack software engine
 
 [//]: # (<p align="left"> <a href="https://twitter.com/danqulogy" target="blank"><img src="https://img.shields.io/twitter/follow/danqulogy?logo=twitter&style=for-the-badge" alt="danqulogy" /></a> </p>)
 
- 🔭 I’m currently working on [BusPro](https://www.buspro.oleumapp.com)
+ 🔭 I’m currently working on [BusPro](https://www.buspro.oleumapp.com): End-to-end fleet management platform(Saas Architecture)
 
 ### Completed Projects 2022
 * [x]  [MetroBillboards](https://www.buspro.oleumapp.com): Outdoor advertisement permit monitoring and management solution for Accra Metropolitan Assembly 
