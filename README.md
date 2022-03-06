@@ -18,7 +18,8 @@ I'm Bernard White. I work as enterprise consultant and fullstack software engine
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=danqulogy&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#your-username" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=danqulogy&theme=highcontrast&hide_border=true" alt="#your-username" />
 </p>
-### Completed Projects 2022 🎇✨
+
+### Completed Projects 2022 ✨
 * [x]  [MetroBillboards](billboard.oleumapp.com): Outdoor advertisement permit monitoring and management solution for Accra Metropolitan Assembly 
 
 ### Get in touch
