@@ -12,7 +12,7 @@ I'm Bernard White. I work as enterprise consultant and fullstack software engine
 ### Current Status 🎯
 - 🔭 I’m currently working on [BusPro](https://www.buspro.oleumapp.com): End-to-end fleet management platform(Saas Architecture)
 - 🧭 Actively searching for remote work. (Okay with relocation, US Preferred)
-- 🦾 Gyming my knowledge and experience on scaling and distributed systems
+- 🦾 Gyming my knowledge on unqiue challenges of distributed systems at scale (😁 Waging war on *the evil* [CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem))
 - 📫 Email me on [danquahwhite@gmail.com](mailto:danquahwhite@gmail.com)
 
 
