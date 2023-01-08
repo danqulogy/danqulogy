@@ -1,4 +1,4 @@
-# Hi, Bernard White here! 👋 
+# Hi, Ben White here! 👋 
 
 
 Expert Full-Stack Software Engineering Professional with over 8 years of solid progressive experience
